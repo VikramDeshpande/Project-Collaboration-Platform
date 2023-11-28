@@ -1,0 +1,16 @@
+.time_due
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+}
+.time_icon
+{
+    display: flex;
+    flex-direction: row;
+}
+.timeprogress_div
+{
+    width: 81%
+}
