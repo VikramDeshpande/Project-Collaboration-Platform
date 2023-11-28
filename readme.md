@@ -35,7 +35,7 @@ The purpose of our "Project Collaboration Platform" is to provide a robust and u
  * **Task Board** 
  ![Task Board](screenshots/taskBoard.png "Task Board")
  * **Creating Issue**
- ![Creating Issue](screenshots/createIssue.png. "Creating Issue") 
+ ![Creating Issue](screenshots/createIssue.png "Creating Issue") 
  * **Issue Detail**
  ![Issue Detail](screenshots/issueDetail.png "Issue Detail")
  * **Filter by member**
