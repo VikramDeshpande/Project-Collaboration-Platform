@@ -1,4 +1,4 @@
-`# Project Collaboration Platform
+## Project Collaboration Platform
 
 ## Purpose of the project:
 
@@ -28,9 +28,24 @@ The purpose of our "Project Collaboration Platform" is to provide a robust and u
 
 ## Screenshots
 
-|| ![Creating Project](screenshots/createProject.png "Creating Project") | ![Task Board](screenshots/taskBoard.png "Task Board")||
-|| ![Creating Issue](screenshots/createIssue.png.png "Creating Issue") | ![Issue Detail](screenshots/issueDetail.png "Issue Detail")||
-|| ![Filter by member](screenshots/filter1.png "Filter by member") | ![Adding and Removing members to the project](screenshots/settings.png "Adding and Removing members to the project")|| ![Issues](screenshots/issues.png "Issues") | ![Dark mode](screenshots/darkmode.png "Dark mode")||
+ * **Login/Sign up**
+ ![Login](screenshots/login.png "Login")
+ * **Creating Project**
+ ![Creating Project](screenshots/createProject.png "Creating Project")
+ * **Task Board** 
+ ![Task Board](screenshots/taskBoard.png "Task Board")
+ * **Creating Issue**
+ ![Creating Issue](screenshots/createIssue.png. "Creating Issue") 
+ * **Issue Detail**
+ ![Issue Detail](screenshots/issueDetail.png "Issue Detail")
+ * **Filter by member**
+ ![Filter by member](screenshots/filter1.png "Filter by member")
+ * **Adding and removing members**
+ ![Adding and Removing members to the project](screenshots/settings.png "Adding and Removing members to the project")
+ * **Issues**
+ ![Issues](screenshots/issues.png "Issues") 
+ * **Dark Mode**
+ ![Dark mode](screenshots/darkmode.png "Dark mode")
 
 
 ## Tech Stack
